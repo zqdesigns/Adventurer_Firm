@@ -1,0 +1,1 @@
+"./Adafruit_SSD1306.obj" "./FXOS8700CQ.obj" "./MS5803.obj" "./glcdfont.obj" "./main.obj" "../lnk_msp430fr5849.cmd" -l"libmath.a" -l"libc.a" 
